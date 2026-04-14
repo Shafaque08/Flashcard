@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://imprint-flashcard.vercel.app"><strong>→ Try it live</strong></a>
+  <a href="https://flashcard-cf4ojkxsi-shafaque-s-projects.vercel.app/"><strong>→ Try it live</strong></a>
 </p>
 
 ---
@@ -141,7 +141,7 @@ Correct answer → interval × easeFactor
 ## Running locally
 
 ```bash
-git clone https://github.com/sahooananya/imprint-flashcard.git
+git clone 
 cd imprint-flashcard
 npm install
 ```
@@ -171,5 +171,5 @@ Open [http://localhost:3000](http://localhost:3000)
 ---
 
 <p align="center">
-  Built by <strong>Ananya Sahoo</strong> · Cuemath AI Builder Challenge · April 2026
+  Built by <strong>Shafaque akhtar</strong> · Cuemath AI Builder Challenge · April 2026
 </p>
