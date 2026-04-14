@@ -141,7 +141,7 @@ Correct answer → interval × easeFactor
 ## Running locally
 
 ```bash
-git clone 
+git clone https://flashcard-cf4ojkxsi-shafaque-s-projects.vercel.app/
 cd imprint-flashcard
 npm install
 ```
